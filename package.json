@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Case-insensitive :contains() pseudo selector for jQuery",
   "main": "jquery-containsi.js",
+  "files": [
+    "jquery-containsi.js"
+  ],
   "scripts": {
     "test": "node test"
   },
