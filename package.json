@@ -1,0 +1,19 @@
+{
+  "name": "jquery-containsi",
+  "version": "0.1.0",
+  "description": "Case-insensitive :contains() pseudo selector for jQuery",
+  "main": "jquery-containsi.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobLoach/jquery-containsi.git"
+  },
+  "author": "Rob Loach (http://robloach.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobLoach/jquery-containsi/issues"
+  },
+  "homepage": "https://github.com/RobLoach/jquery-containsi#readme"
+}
