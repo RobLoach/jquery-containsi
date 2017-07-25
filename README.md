@@ -1,4 +1,4 @@
-#jquery-containsi
+# jquery-containsi
 
 Case-insenitive [:contains()](https://api.jquery.com/contains-selector/) for [jQuery](http://jquery.com).
 
